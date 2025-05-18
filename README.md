@@ -27,5 +27,4 @@ Você pode me encontrar por aqui no GitHub para trocar ideias e colaborar!
 
 ---
 
-![Cybersecurity GIF](https://media.giphy.com/media/l2SqbqZ9J2CqGbdqo/giphy.gif)
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
